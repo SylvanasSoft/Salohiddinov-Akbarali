@@ -11,16 +11,4 @@
   <a href="https://t.me/ieee01">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://jasurbek.tech/">
-    <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white"/>
-  </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JasurbekErgashev&style=flat-square&color=blue" alt="View Counter" id="badges"/>
-</div>
-<div align="center">
-  <h1>
-  hey there 🙌
-</h1>
 </div>
